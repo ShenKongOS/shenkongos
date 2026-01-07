@@ -1,7 +1,6 @@
 ;ShenKong OS 1.0
-
+;作者:尝荽
 SECTION mbr align=16 vstart=0x7c00
-
 
 
 
